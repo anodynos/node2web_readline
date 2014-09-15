@@ -3,4 +3,4 @@
 From [node2web](http://github.com/anodynos/node2web) collection,
 should/will be exposed as 'readline' to [bower](http://bower.io) for *browser* usage.
 
-browserify version: '3.24.10', build date 'Sun Feb 02 2014 23:25:16 GMT+0200 (EET)'
+browserify version: '3.24.10', build date 'Tue Sep 16 2014 00:07:49 GMT+0300 (EEST)'
